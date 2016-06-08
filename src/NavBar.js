@@ -42,7 +42,6 @@ import _backButtonImage from './back_chevron.png';
 const styles = StyleSheet.create({
   title: {
     textAlign: 'center',
-    marginTop: 10,
     fontSize: 18,
     fontWeight: '500',
     color: '#0A0A0A',
